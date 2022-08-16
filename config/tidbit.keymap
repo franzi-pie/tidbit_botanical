@@ -17,7 +17,7 @@
 #define NAV		1
 #define FUNC    2
 
-#define NONE 0
+//#define NONE 0
 
 / {
 	
